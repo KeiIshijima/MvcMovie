@@ -41,7 +41,7 @@ GitHub のアカウントを作成したら、以下の URL にアクセスし�
 本リポジトリ テンプレートを使用した新規リポジトリの作成手順は以下のとおりです。
 
  1. 以下の URL にアクセスし、画面内のボタン `[Use this template]` をクリックします  
-      https://github.com/osamum/MvcMovie 
+      https://github.com/KeiIshijima/MvcMovie 
       <img src="readme_images/template-button.png" width="700">
       <br>
     
