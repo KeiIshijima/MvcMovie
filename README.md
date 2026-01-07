@@ -42,7 +42,7 @@ GitHub のアカウントを作成したら、以下の URL にアクセスし�
 
  1. 以下の URL にアクセスし、画面内のボタン `[Use this template]` をクリックします  
       https://github.com/KeiIshijima/MvcMovie 
-      <img src="readme_images/template-button.png" width="700">
+      <img src="readme_images/template-button2.png" width="700">
       <br>
     
 2. `Create a new project from MvcMovie` 画面の各項目を以下のように設定します
