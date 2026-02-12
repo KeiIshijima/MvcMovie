@@ -1,6 +1,6 @@
 # MvcMovie
 
-このプロジェクトは、Azure PaaS のデプロイから運用までを説明するハンズオン用のアプリケーションです。
+このプロジェクトはAAAAA、Azure PaaS のデプロイから運用までを説明するハンズオン用のアプリケーションです。
 
 .NET7 の MVC Framework で作成されており、SQL Server Express LocalDB を使用する都合上、Windows 上での動作を前提としています。
 
